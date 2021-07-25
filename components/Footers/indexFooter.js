@@ -10,7 +10,7 @@ export default function indexFooter() {
             <h1 className="font-sans  text-xl font-bold my-4">Alamat Perusahaan</h1>
             <p>Jl. Garuda Arso II RT. 025/RW.002 Yuwanain Arso Kabupaten Keerom</p>
 
-            <h1 className="font-sans  text-xl font-bold my-4">Alamat Sekertariat Cabang</h1>
+            <h1 className="font-sans  text-xl font-bold my-4">Alamat Kantor Cabang </h1>
             <p>Jl. Abepura - Entrop Tikung Jaya Asri No.59 B, Kota Jayapura, Papua</p>
           </div>
 
