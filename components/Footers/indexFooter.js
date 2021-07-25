@@ -7,8 +7,11 @@ export default function indexFooter() {
       <footer className="relative bg-gray-600 text-white py-10">  
         <div className="flex flex-col md:flex-row mx-20 items-center md:justify-center ">
           <div className="w-full md:w-1/3">
-            <h1 className="font-sans  text-xl font-bold my-4">Alamat</h1>
+            <h1 className="font-sans  text-xl font-bold my-4">Alamat Perusahaan</h1>
             <p>Jl. Garuda Arso II RT. 025/RW.002 Yuwanain Arso Kabupaten Keerom</p>
+
+            <h1 className="font-sans  text-xl font-bold my-4">Alamat Sekertariat Cabang</h1>
+            <p>Jl. Raya Abepura Km. 7 no. 20 Entrop, Kota Jayapura </p>
           </div>
 
           <div className="w-full md:w-1/3 md:ml-6">
