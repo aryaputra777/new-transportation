@@ -8,8 +8,8 @@ export default function Carouselgaleri() {
 
     return (
 
-        <div className="flex justify-center items-center w-1/2 mx-auto">
-            <Carousel>
+        <div className="flex justify-center items-center mx-auto">
+            <Carousel className="max-w-sm w-full md:max-w-screen-md">
                 <div>
                     <img src="/assets/16.jpeg" />
 
